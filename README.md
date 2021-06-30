@@ -1,3 +1,3 @@
 # Speller.io
-//
+/
 
